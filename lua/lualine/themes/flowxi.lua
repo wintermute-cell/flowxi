@@ -1,4 +1,4 @@
-local p = require("flexoki.palette")
+local p = require("flowxi.palette")
 
 return {
 	normal = {

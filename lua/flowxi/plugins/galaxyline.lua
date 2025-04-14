@@ -1,10 +1,10 @@
---- Rosé Pine for galaxyline fork
+--- Flowxi for galaxyline fork
 --- https://github.com/NTBBloodbath/galaxyline.nvim
 ---
 --- @usage
---- local highlights = require("flexoki.plugins.galaxyline")
+--- local highlights = require("flowxi.plugins.galaxyline")
 
-local p = require("flexoki.palette")
+local p = require("flowxi.palette")
 
 return {
 	bg = p.surface,

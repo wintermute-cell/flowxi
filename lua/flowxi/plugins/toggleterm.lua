@@ -1,8 +1,8 @@
---- Rosé Pine for toggleterm
+--- Flowxi for toggleterm
 --- https://github.com/akinsho/toggleterm.nvim
 ---
 --- @usage
---- local highlights = require("flexoki.plugins.toggleterm")
+--- local highlights = require("flowxi.plugins.toggleterm")
 --- require("toggleterm").setup({ highlights = highlights })
 
 return {

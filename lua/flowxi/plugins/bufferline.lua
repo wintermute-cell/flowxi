@@ -1,11 +1,11 @@
---- Rosé Pine for bufferline
+--- Flowxi for bufferline
 --- https://github.com/akinsho/bufferline.nvim
 ---
 --- @usage
---- local highlights = require("flexoki.plugins.bufferline")
+--- local highlights = require("flowxi.plugins.bufferline")
 --- require("bufferline").setup({ highlights = highlights })
 
-local p = require("flexoki.palette")
+local p = require("flowxi.palette")
 
 return {
 	-- fill = {

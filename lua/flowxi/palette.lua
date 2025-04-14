@@ -1,4 +1,4 @@
-local options = require("flexoki.config").options
+local options = require("flowxi.config").options
 
 local variants = {
 	moon = {
